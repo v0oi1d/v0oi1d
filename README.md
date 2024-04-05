@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Karar</h1>
-<h3 align="center">A passionate frontend developer,ML/DL and electronics enthusiast, trying to integrate hardware and software</h3>
+<h3 align="center">A fullstack developer,ML/DL and electronics enthusiast, trying to integrate hardware and software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v0oi1d&label=Profile%20views&color=0e75b6&style=flat" alt="v0oi1d" /> </p>
 
